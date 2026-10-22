@@ -165,6 +165,7 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
     failure_files = {
         "dre_consolidated_failures.jsonl": "Diplomas sem texto consolidado no DRE (histórico de versões)",
         "dre_imported_failures.jsonl": "Diplomas da importação inicial que não foi possível recolher do DRE",
+        "dre_dates_failures.jsonl": "Diplomas da recolha do DRE por datas que não foi possível recolher",
         "eurlex_referenced_failures.jsonl": "Atos da UE referidos pela legislação portuguesa sem versão portuguesa no CELLAR",
         "eurlex_consolidated_failures.jsonl": "Atos da UE com consolidações mas sem versão consolidada em português",
     }

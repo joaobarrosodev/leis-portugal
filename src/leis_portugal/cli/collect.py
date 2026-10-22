@@ -27,7 +27,7 @@ def register(commands) -> None:
     dre.add_argument("--to", dest="date_to", type=date.fromisoformat, help="Fim do intervalo (inclusive; por omissão: hoje).")
     dre.add_argument("--no-relations", action="store_true", help="Não recolher alterações e retificações (análise jurídica).")
     dre.add_argument("--no-subjects", action="store_true", help="Não recolher os descritores temáticos.")
-    dre.add_argument("--workers", type=int, default=1, help="Com --imported: sessões DRE em paralelo (por omissão: 1).")
+    dre.add_argument("--workers", type=int, default=1, help="Sessões DRE em paralelo (por omissão: 1).")
     dre.add_argument("--limit", type=int, default=None, help="Com --imported: recolher no máximo N diplomas.")
     dre.set_defaults(handler=collect_dre)
 
@@ -81,7 +81,12 @@ def collect_dre(args) -> int:
         print(f"Diplomas: {len(summary.documents)}; atualizados: {changed}; ignorados: {len(summary.skipped)}; falhas: {len(summary.failures)}")
         return 1 if summary.failures and not summary.documents else 0
     start = args.date or args.date_from
-    summary = service.ingest_dates(start, args.date or args.date_to or date.today(), progress=progress)
+    end = args.date or args.date_to or date.today()
+    if args.workers > 1:
+        summary = service.ingest_dates_parallel(start, end, workers=args.workers, progress=progress)
+        write_failures(repository.root / "reports" / "dre_dates_failures.jsonl", summary.failures)
+    else:
+        summary = service.ingest_dates(start, end, progress=progress)
     for result in summary.documents:
         print(f"{result.action}: {repository.relative(result.path)}")
     for skipped in summary.skipped:

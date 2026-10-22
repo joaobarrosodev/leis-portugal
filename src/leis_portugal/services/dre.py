@@ -89,6 +89,30 @@ class DreIngestion:
         run_parallel(refs, work, context=self.source_factory, workers=workers, progress=progress)
         return summary
 
+    def list_dates(self, start: date, end: date, *, progress: Progress = silent) -> tuple[list[str], list[dict[str, str]]]:
+        """Caminhos DRE dos diplomas publicados entre duas datas (e entradas sem caminho)."""
+        refs: list[str] = []
+        missing: list[dict[str, str]] = []
+        day = start
+        while day <= end:
+            listed = self.source.documents_by_date(day.isoformat())
+            progress(f"{day.isoformat()}: {len(listed)} documento(s)")
+            for item in listed:
+                ref = (item.get("LinkSitemap") or "").strip()
+                if ref:
+                    refs.append(ref)
+                else:
+                    missing.append({"ref": json.dumps(item, ensure_ascii=False)[:200], "motivo": "metadados_em_falta", "error": "Sem LinkSitemap"})
+            day += timedelta(days=1)
+        return refs, missing
+
+    def ingest_dates_parallel(self, start: date, end: date, *, workers: int, progress: Progress = silent) -> DreRunSummary:
+        """Como `ingest_dates`, mas recolhe os diplomas em paralelo depois de listar os dias."""
+        refs, missing = self.list_dates(start, end, progress=progress)
+        summary = self.ingest_many(refs, workers=workers, progress=progress)
+        summary.failures.extend(missing)
+        return summary
+
     def ingest_dates(self, start: date, end: date, *, progress: Progress = silent) -> DreRunSummary:
         """Todos os diplomas publicados entre duas datas (inclusive).
 

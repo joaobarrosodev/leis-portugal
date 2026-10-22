@@ -128,3 +128,15 @@ def test_failure_reasons_are_reported_by_motivo(repo_root: Path):
     generate_reports(Acervo(repo_root))
     text = (reports / "COBERTURA.md").read_text(encoding="utf-8")
     assert "| 3 | erro de acesso à fonte: 1; a fonte não tem o texto: 2 |" in text
+
+
+def test_collect_dre_dates_in_parallel(repo_root: Path, monkeypatch, capsys):
+    monkeypatch.setattr(
+        "leis_portugal.cli.collect.DreIngestion",
+        lambda acervo, **options: DreIngestion(acervo, source_factory=lambda: DreSource(acervo.types, DreClient(FakeSession())), **options),
+    )
+    assert run(repo_root, "collect", "dre", "--from", "2026-10-20", "--to", "2026-10-21", "--workers", "3") == 0
+    out = capsys.readouterr()
+    assert "2026-10-21: 1 documento(s)" in out.err
+    assert out.out.count("decreto-lei-202-2026.md") == 2
+    assert (repo_root / "reports/dre_dates_failures.jsonl").read_text(encoding="utf-8") == ""
